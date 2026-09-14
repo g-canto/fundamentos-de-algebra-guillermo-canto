@@ -177,7 +177,7 @@
 *   Numerador: $10 - 30i - 7i + 21i^2 = 10 - 37i - 21 = -11 - 37i$
 *   Denominador: $1^2 + 3^2 = 1 + 9 = 10$
 *   $\frac{-11 - 37i}{10}$
-*   **Resultado:** $-\frac{11}{10} - \frac{37}{10}i$
+*   **Resultado:** $-\frac{11}{10} - \frac{37}{10}i$ , $-1.1 -3.7i$
 
 <br>
 
@@ -185,7 +185,7 @@
 *   Multiplicando por el conjugado: $\frac{(4 + 2i)(-1 + 10i)}{(-1 - 10i)(-1 + 10i)}$
 *   Numerador: $-4 + 40i - 2i + 20i^2 = -4 + 38i - 20 = -24 + 38i$
 *   Denominador: $(-1)^2 + (10)^2 = 1 + 100 = 101$
-*   **Resultado:** $\frac{-24 + 38i}{101}$
+*   **Resultado:** $\frac{-24 + 38i}{101}$ . $-0.23 + 0.37i$
 
 <br>
 
@@ -193,7 +193,7 @@
 *   Multiplicando por el conjugado: $\frac{(1 + 4i)(-1 + 6i)}{(-1 - 6i)(-1 + 6i)}$
 *   Numerador: $-1 + 6i - 4i + 24i^2 = -1 + 2i - 24 = -25 + 2i$
 *   Denominador: $(-1)^2 + (6)^2 = 1 + 36 = 37$
-*   **Resultado:** $\frac{-25 + 2i}{37}$
+*   **Resultado:** $\frac{-25 + 2i}{37}$ , $-0.67 + 0.05i$
 
 <br>
 
@@ -202,7 +202,7 @@
 *   Numerador: $8 - 8i - 4i + 4i^2 = 8 - 12i - 4 = 4 - 12i$
 *   Denominador: $(-1)^2 + (1)^2 = 1 + 1 = 2$
 *   $\frac{4 - 12i}{2}$
-*   **Resultado:** $2 - 6i$
+*   **Resultado:** $2 - 6i$ 
 
 <br>
 
@@ -210,7 +210,7 @@
 *   Multiplicando por el conjugado: $\frac{(-10 + 8i)(6 - i)}{(6 + i)(6 - i)}$
 *   Numerador: $-60 + 10i + 48i - 8i^2 = -60 + 58i + 8 = -52 + 58i$
 *   Denominador: $6^2 + 1^2 = 36 + 1 = 37$
-*   **Resultado:** $\frac{-52 + 58i}{37}$
+*   **Resultado:** $\frac{-52 + 58i}{37}$ , $-1.4+1.5i$
 
 <br>
 
@@ -219,7 +219,7 @@
 *   Numerador: $8 + 20i - 8i - 20i^2 = 8 + 12i + 20 = 28 + 12i$
 *   Denominador: $4^2 + 10^2 = 16 + 100 = 116$
 *   $\frac{28 + 12i}{116} = \frac{7 + 3i}{29}$
-*   **Resultado:** $\frac{7}{29} + \frac{3}{29}i$ (o $\frac{7 + 3i}{29}$)
+*   **Resultado:** $\frac{7 + 3i}{29}$ , $0.24 + 0.1i$
 
 <br>
 
