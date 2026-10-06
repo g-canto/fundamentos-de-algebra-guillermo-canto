@@ -1,11 +1,5 @@
 # Actividad 14: Productos Notables
 
-A continuación se presentan las soluciones completas y corregidas de los 32 ejercicios de la actividad, organizados por tipo de producto notable.
-
----
-
-## I. Binomios al Cuadrado: $(a \pm b)^2 = a^2 \pm 2ab + b^2$
-
 1. **$(r - 5)^2$**
    $$= r^2 - 2(r)(5) + 5^2$$
    $$= r^2 - 10r + 25$$
@@ -39,10 +33,6 @@ A continuación se presentan las soluciones completas y corregidas de los 32 eje
    $$= k^2 + 2(k)(6) + 6^2$$
    $$= k^2 + 12k + 36$$
 
----
-
-## II. Binomios Conjugados (Diferencia de Cuadrados): $(a + b)(a - b) = a^2 - b^2$
-
 9. **$(7n + 2)(7n - 2)$**
    $$= (7n)^2 - (2)^2$$
    $$= 49n^2 - 4$$
@@ -74,10 +64,6 @@ A continuación se presentan las soluciones completas y corregidas de los 32 eje
 16. **$(6 + 3r)(6 - 3r)$**
     $$= 6^2 - (3r)^2$$
     $$= 36 - 9r^2$$
-
----
-
-## III. Binomios con Término Común y Producto de Binomios
 
 17. **$(8m + 8)(8m + 5)$**
     $$= (8m)^2 + (8 + 5)(8m) + (8)(5)$$
@@ -117,10 +103,6 @@ A continuación se presentan las soluciones completas y corregidas de los 32 eje
     $$= (7v)^2 + (1 + 5)(7v) + (1)(5)$$
     $$= 49v^2 + 6(7v) + 5$$
     $$= 49v^2 + 42v + 5$$
-
----
-
-## IV. Binomios al Cubo: $(a \pm b)^3 = a^3 \pm 3a^2b + 3ab^2 \pm b^3$
 
 25. **$(y^4 + 4x)^3$**
     $$= (y^4)^3 + 3(y^4)^2(4x) + 3(y^4)(4x)^2 + (4x)^3$$
